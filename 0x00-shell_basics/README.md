@@ -2,4 +2,5 @@ print absolute path
 list file content
 return home
 list files in long format
-hidden filesh
+hidden files
+list files digitsh
