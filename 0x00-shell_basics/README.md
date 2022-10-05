@@ -3,4 +3,5 @@ list file content
 return home
 list files in long format
 hidden files
-list files digitsh
+list files digits
+my first directoryh
