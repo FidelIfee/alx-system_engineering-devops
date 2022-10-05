@@ -4,4 +4,5 @@ return home
 list files in long format
 hidden files
 list files digits
-my first directoryh
+my first directory
+betty in my first directoryh
