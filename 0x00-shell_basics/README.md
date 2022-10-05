@@ -1,3 +1,4 @@
 print absolute path
 list file content
-return homeh
+return home
+list files in long formath
