@@ -5,4 +5,5 @@ list files in long format
 hidden files
 list files digits
 my first directory
-betty in my first directoryh
+betty in my first directory
+Bye Bettyyh
